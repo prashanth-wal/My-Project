@@ -11,7 +11,7 @@ const IndexPage = () => (
          <p>We know how large objects will act, but<br/> things on a small scale just do not act that way.</p>
          <div className="ButtonGroup">
           <Link to="/page-2/">Get Quote Now</Link>
-          <Link to="/learn-more/">Learn More</Link>
+          <Link to="/learn-more/">Learn More2</Link>
         </div>
      </div>
    </div>
