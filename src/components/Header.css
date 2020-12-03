@@ -1,0 +1,22 @@
+.Header{
+    position: fixed;
+    width: 100%;
+    padding: 40px 40px;
+
+}
+
+.HeaderGroup {
+    margin: 0 auto;
+    max-width: 1020px;
+    display: grid;
+    grid-template-columns:auto auto auto auto auto;
+    justify-self: center;
+    align-items: center;
+}
+
+.Header a{
+    font-size: 18px;
+    color: white;
+    font-weight: 300;
+    letter-spacing: 0.5px;
+}
